@@ -2,7 +2,7 @@
 A data analysis project exploring UPI transaction trends using interactive dashboards. Includes insights on monthly balances, transaction amounts, city-wise activity, payment methods, device types, merchants, and user demographics to understand digital payment behavior.
 
 ## Dataset Used
- - <a href = "https://github.com/himanshu9708/Upi-Transactions-data-Analysis/blob/main/UPI%2BTransactions.xlsx"><Upi+Transactions dataset></a>
+ - <a href = "https://github.com/himanshu9708/Upi-Transactions-data-Analysis/blob/main/UPI%2BTransactions.xlsx">Upi+Transactions dataset</a>
 
 
  ## Project Objective
