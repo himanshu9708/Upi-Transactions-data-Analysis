@@ -31,7 +31,7 @@ A data analysis project exploring UPI transaction trends using interactive dashb
 - Analyzed insights to understand user behavior, city-level performance, payment preferences, and monthly transaction patterns.
 - Documented findings and prepared visual summaries for easy interpretation and reporting
 
-# Toola Used
+# Tools Used
 - Power BI – For building interactive dashboards and visualizing transaction trends.
 - Microsoft Excel – Used for initial data cleaning, formatting, and dataset preparation.
 - Power Query – Applied for data transformation, merging, and shaping within Power BI.
